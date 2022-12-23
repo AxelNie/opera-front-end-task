@@ -1,0 +1,20 @@
+.modes-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  height: 80px;
+  width: 80px;
+  border-radius: 16px;
+  background-color: white;
+  box-shadow: 0px 6px 18px rgba(3, 78, 120, 0.15);
+}
+
+.modes-button-desc {
+}
+
+.on-off-toggle {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.4);
+  font-weight: 400;
+}

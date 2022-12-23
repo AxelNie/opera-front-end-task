@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 100vh;
+  background: linear-gradient(180deg, #eef6fe 29.19%, #f8fbff 56.46%);
 }
 
 .App-logo {
@@ -35,4 +37,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 24px;
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  margin: 0;
 }

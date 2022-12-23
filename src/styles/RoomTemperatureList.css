@@ -1,0 +1,14 @@
+.container-temp-list {
+  display: flex;
+  justify-content: flex-start;
+  padding: 1rem 1.5rem 1rem 1.5rem;
+  overflow: auto;
+  background-color: white;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  gap: 24px;
+}
+
+.container-temp-list::-webkit-scrollbar {
+  display: none;
+}

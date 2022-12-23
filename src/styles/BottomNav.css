@@ -1,0 +1,26 @@
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  background-color: white;
+}
+
+.bottom-nav-content {
+  margin: 1rem 1.5rem 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.household {
+  display: flex;
+  font-weight: 800;
+  font-size: 16px;
+  padding: 8px 16px 8px 12px;
+  gap: 8px;
+  background: rgba(0, 210, 223, 0.15);
+  border-radius: 40px;
+}
+
+.household-text {
+  color: #00d2df;
+}
